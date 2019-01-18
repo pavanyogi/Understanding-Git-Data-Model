@@ -1,2 +1,2 @@
 # Description
-This is my hello world project
+This is project for git internal understandings.
